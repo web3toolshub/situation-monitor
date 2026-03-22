@@ -56,7 +56,7 @@ npm run dev
 ```
 
 
-### 📌 **Linux / macOS / WSL 用户**
+### 📌 **Linux / macOS / WSL2 用户**
 （确保你已安装 `git`，如果未安装请参考➡️[安装git教程](./安装git教程.md)）
 
 ```bash

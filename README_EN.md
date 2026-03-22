@@ -55,7 +55,7 @@ npm run dev
 # Visit http://localhost:5173 in browser
 ```
 
-### 📌 **Linux / macOS / WSL Users**
+### 📌 **Linux / macOS / WSL2 Users**
 (Make sure you have `git` installed. If not, refer to ➡️[Git Installation Tutorial](./安装git教程.md))
 
 ```bash
